@@ -67,6 +67,10 @@ export function SiteFooter() {
             <span className="hover:text-accent transition-colors">
               Prachi Jaiswal
             </span>
+            </span className="mx-2 opacity-40">•</span>
+            <span className="hover:text-accent transition-colors">
+              NEX CLUB
+            </span>
           </p>
         </div>
 
