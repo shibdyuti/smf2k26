@@ -55,7 +55,7 @@ export function SiteFooter() {
 
           <p className="mt-2 text-sm">
             <span className="hover:text-accent transition-colors">
-              Aranya Rath
+              Brought to you by members of NEX club:
             </span>
 
             <span className="mx-2 opacity-40">•</span>
@@ -73,7 +73,7 @@ export function SiteFooter() {
             <span className="mx-2 opacity-40">•</span>
 
             <span className="hover:text-accent transition-colors">
-              NEX CLUB
+              NEX CLUB team
             </span>
             </p>
             </div>
