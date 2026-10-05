@@ -48,6 +48,31 @@ export function SiteFooter() {
           <SocialLinks inverted />
         </div>
       </div>
+              </div>
+
+        <div className="border-t border-primary-foreground/10 pt-4 text-center">
+          <p className="text-xs uppercase tracking-widest opacity-60">
+            Web Developers
+          </p>
+
+          <p className="mt-2 text-sm">
+            <span className="hover:text-accent transition-colors">
+              Aranya Rath
+            </span>
+            <span className="mx-2 opacity-40">•</span>
+            <span className="hover:text-accent transition-colors">
+              Shibdyuti Nag
+            </span>
+            <span className="mx-2 opacity-40">•</span>
+            <span className="hover:text-accent transition-colors">
+              Prachi Jaiswal
+            </span>
+          </p>
+        </div>
+
+        <p className="border-t border-primary-foreground/15 py-4 text-center text-xs opacity-70">
+          © 2026 Smart Maker Fest. A maker mindset. A brighter Bengal.
+        </p>
       <p className="border-t border-primary-foreground/15 py-4 text-center text-xs opacity-70">
         © 2026 Smart Maker Fest. A maker mindset. A brighter Bengal.
       </p>
